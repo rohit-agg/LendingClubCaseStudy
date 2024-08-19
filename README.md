@@ -54,7 +54,7 @@ Following is the step-by-step approach followed to solve the given problem state
 - [Seaborn Documentation](https://seaborn.pydata.org/api.html)
 
 ## Contact
-Created by [@rohit-agg](https://github.com/rohit-agg) and [@]() - feel free to contact us!
+Created by [@rohit-agg](https://github.com/rohit-agg) and [@erarunbs](https://github.com/erarunbs) - feel free to contact us!
 
 ## License
 This project is open source and available under the [MIT License](LICENSE.md)
